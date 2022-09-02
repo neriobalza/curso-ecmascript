@@ -1,0 +1,21 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neriobalza/curso-ecmascript.git"
+  },
+  "keywords": [
+    "javacript",
+    "ecmascript"
+  ],
+  "author": "Nerio Balza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neriobalza/curso-ecmascript/issues"
+  },
+  "homepage": "https://github.com/neriobalza/curso-ecmascript#readme"
+}
